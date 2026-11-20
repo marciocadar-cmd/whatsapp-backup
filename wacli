@@ -1,0 +1,2 @@
+#!/bin/sh
+WACLI_STORE_DIR=/workspace/.wacli-store exec /workspace/.wacli/bin/wacli-bin "$@"
